@@ -1,6 +1,6 @@
 package com.tonybuilder.trackpattern;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class TouchPatternActivity extends AppCompatActivity {
